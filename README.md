@@ -3,7 +3,7 @@
 - 🌱 Ben şunlar hakkında biraz bilgiliyim: Data Recovery, Copy Writing, Python, Batch, Unity, C#, Blender, 3D Object/Character Design, Oculus Quest, OS's (Windows/Linux/MacOS/Android), Server Setup (OS,Apache,VPN), Web Design, WordPress, HTML, CSS, MySQL, SEO, Raspberry PI, Digital Ocean, Cloud Flare, Adobe Photoshop, Adobe Animate, Sony Vegas, Social Media/Automation/Bot, Network, Firewall...
 - ☎ Bana ulaşabileceğiniz Instagram: <a href="https://www.instagram.com/harurinc3"> @harurinc3</a>
 - ⚡ Şu an üniversite okuyorum ve boş vakitlerimde Quest 2 için Unity ile sanal gerçeklik oyunu geliştiriyorum. (Alpha Sürümde, Yayınlama Zamanı Beta: Bilinmiyor! Lisanslama, Markalama sorunları...) 
-- 💬 Telegram API'si ile BOT geliştirme hakkında biraz kodlama yaptım! (Crypto currency / advertising bot etc. But i wasn't interested in it too much.)
+- 💬 Telegram API'si ile BOT geliştirme hakkında biraz kodlama yaptım! (Crypto para / reklam bot falan.)
 - 🌐 İngilizce biliyorum.
 - 💼 Şu anda: Çalışmıyor/Üniversite
 <!--
